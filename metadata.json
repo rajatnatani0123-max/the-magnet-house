@@ -1,0 +1,6 @@
+{
+  "name": "The Magnet House",
+  "description": "Personalized smart fridge magnets with NFC + QR technology. Turn memories into interactive physical keepsakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
